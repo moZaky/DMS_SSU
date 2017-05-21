@@ -1,0 +1,567 @@
+E:\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+E:\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+E:\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+E:\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+E:\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+E:\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+E:\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+E:\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+E:\DMS_thesis\DMS_thesis\bin\Owin.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+E:\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+E:\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+E:\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+E:\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+E:\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+E:\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+E:\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+E:\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+E:\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+E:\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+E:\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Owin.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+C:\Users\Alex\Desktop\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Owin.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Owin.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+C:\Users\Alex\Desktop\DMS_thesis_final\DMS_thesis_final\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Owin.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis_final_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Owin.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\log4net.dll
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.pdb
+E:\11AA                СЭД\DMS_thesis_final_1\DMS_thesis\DMS_thesis\bin\log4net.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\log4net.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Owin.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.pdb
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\log4net.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+E:\11AA                СЭД\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\log4net.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Owin.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\log4net.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll.licenses
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Document.Viewer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\GleamTech.Core.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\GleamTech.DocumentUltimate.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\RestSharp.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.Doc.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.DocViewer.Forms.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.License.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.Pdf.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXTextControl.Web.MVC.DocumentViewer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Microsoft.mshtml.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXTextControl.Server.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXTextControl.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXDocumentServer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\GleamTech.Core.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\GleamTech.DocumentUltimate.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\RestSharp.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.Doc.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.DocViewer.Forms.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.License.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\Spire.Pdf.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXTextControl.Web.MVC.DocumentViewer.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXTextControl.Server.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXTextControl.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\TXDocumentServer.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\de\TXTextControl.resources.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis\DMS_thesis\bin\de\TXDocumentServer.resources.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll.licenses
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll.config
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\DMS_thesis.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Document.Viewer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\EntityFramework.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\GleamTech.Core.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\GleamTech.DocumentUltimate.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\log4net.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Owin.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\RestSharp.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.Doc.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.DocViewer.Forms.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.License.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.Pdf.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Razor.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXTextControl.Web.MVC.DocumentViewer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\WebGrease.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.mshtml.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXTextControl.Server.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXTextControl.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXDocumentServer.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\EntityFramework.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\GdNet.Integrations.DropzoneMvc.pdb
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\GleamTech.Core.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\GleamTech.DocumentUltimate.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\log4net.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Newtonsoft.Json.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\RestSharp.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.Doc.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.DocViewer.Forms.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.License.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\Spire.Pdf.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Helpers.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Mvc.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Optimization.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.Razor.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXTextControl.Web.MVC.DocumentViewer.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXTextControl.Server.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXTextControl.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\TXDocumentServer.xml
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\de\TXTextControl.resources.dll
+C:\Users\Alex\Documents\DMS_thesis_prot_finish\DMS_thesis_1\DMS_thesis\DMS_thesis\bin\de\TXDocumentServer.resources.dll
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.dll.licenses
+E:\ЧЕТВЕРТЫЙ КУРС\ДИПЛОМ\Проекты\DMS_thesis\DMS_thesis\obj\Debug\DMS_thesis.csprojResolveAssemblyReference.cache
